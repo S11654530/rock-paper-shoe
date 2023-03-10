@@ -18,7 +18,7 @@ choices = [
 # Define Functions
 def displayInstruction():
     print("+***************************************************+")
-    print("Welcome to Donte Rock - Paper - Scissors Simulator! +")
+    print("Welcome to Ronald Rock - Paper - Scissors Simulator! +")
     print("+ For this game, you will chooe Rock, Paper, or     +")
     print("+ Scissors!                                         +")
     print("+The rules of this game are:                        +")
